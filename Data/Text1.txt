@@ -2,3 +2,4 @@ Hello, How are you
 How to commit this line seperately?
 Modification from Dev 1
 Another modification from Dev 1
+Modification on Dev 1 from server
